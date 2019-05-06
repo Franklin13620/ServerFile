@@ -55,7 +55,7 @@
             <tr>
                 <td colspan='2' align='center'>
                 <a href='form_subir.php'>Subir otro Archivo</a><br>
-                <a href='index.php'>Incio</a>
+                <a href='index.php'>Inicio</a>
                 </td>
             </tr>
         </table>
