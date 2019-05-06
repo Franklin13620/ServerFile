@@ -10,6 +10,6 @@ if (isset($_GET['directoriobase'])) {
 $extension = $directorio."/".$archivo;
 header ("Content-Disposition: attachment; filename=".$archivo."");
 header ("Content-Type: application/octet-stream");
-header ("Content-Length:".filesize($extesion));
+header ("Content-Length:".filesize($extension));
 readfile($extension);
 ?>
