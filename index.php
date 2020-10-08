@@ -32,7 +32,7 @@
 				<td align='right' heigth='40px'>
 				<a href='form_subir.php'>Subir Archivo</a>
 				<a href='crear_archivo.php'>Crear Archivo</a>
-				<a href='fuente/Fuente.rar'>Codigo Fuente</a>
+				/*<a href='fuente/Fuente.rar'>Codigo Fuente</a>*/
 		</td>
 		</tr>
 		<tr>
